@@ -88,25 +88,29 @@ python main.py
 
 ## 🏠 Main Menu
 
-(Add home.png here)
+<img width="757" height="251" alt="image" src="https://github.com/user-attachments/assets/a8ef8668-5965-418b-883b-792b46235ba4" />
+
 
 ---
 
 ## ❓ Quiz Screen
 
-(Add quiz.png here)
+<img width="691" height="412" alt="image" src="https://github.com/user-attachments/assets/d1ffd5eb-74c1-49c9-9b92-f41f95d94025" />
+
 
 ---
 
 ## 🏆 Leaderboard
 
-(Add leaderboard.png here)
+<img width="590" height="173" alt="image" src="https://github.com/user-attachments/assets/2e4a7af2-b68b-4643-9d81-5759696e49f6" />
+
 
 ---
 
 ## 📊 Quiz Summary
 
-(Add summary.png here)
+<img width="711" height="377" alt="image" src="https://github.com/user-attachments/assets/2bc9f23b-2eb7-46e7-971e-e74ded113378" />
+
 
 ---
 
