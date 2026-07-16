@@ -1,0 +1,167 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "difficulty": "Easy",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Program Utility",
+            "Control Processing Unit"
+        ],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which language is primarily used for Data Science?",
+        "difficulty": "Easy",
+        "options": [
+            "Java",
+            "Python",
+            "C",
+            "HTML"
+        ],
+        "answer": "Python"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "difficulty": "Easy",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "function"
+        ],
+        "answer": "def"
+    },
+    {
+        "question": "Which data type stores True or False values?",
+        "difficulty": "Easy",
+        "options": [
+            "Integer",
+            "Boolean",
+            "Float",
+            "String"
+        ],
+        "answer": "Boolean"
+    },
+    {
+        "question": "Which symbol is used for comments in Python?",
+        "difficulty": "Easy",
+        "options": [
+            "//",
+            "#",
+            "/* */",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "question": "Which function is used to display output in Python?",
+        "difficulty": "Medium",
+        "options": [
+            "echo()",
+            "printf()",
+            "print()",
+            "display()"
+        ],
+        "answer": "print()"
+    },
+    {
+        "question": "Which of the following is a mutable data type?",
+        "difficulty": "Medium",
+        "options": [
+            "Tuple",
+            "String",
+            "List",
+            "Integer"
+        ],
+        "answer": "List"
+    },
+    {
+        "question": "Which operator is used for exponentiation in Python?",
+        "difficulty": "Medium",
+        "options": [
+            "^",
+            "**",
+            "*",
+            "//"
+        ],
+        "answer": "**"
+    },
+    {
+        "question": "Which loop is used when the number of iterations is unknown?",
+        "difficulty": "Medium",
+        "options": [
+            "for",
+            "while",
+            "do-while",
+            "repeat"
+        ],
+        "answer": "while"
+    },
+    {
+        "question": "Which module is used to generate random numbers in Python?",
+        "difficulty": "Medium",
+        "options": [
+            "math",
+            "random",
+            "time",
+            "numpy"
+        ],
+        "answer": "random"
+    },
+    {
+        "question": "Who developed Python?",
+        "difficulty": "Hard",
+        "options": [
+            "James Gosling",
+            "Guido van Rossum",
+            "Dennis Ritchie",
+            "Bjarne Stroustrup"
+        ],
+        "answer": "Guido van Rossum"
+    },
+    {
+        "question": "Which file format is commonly used to store structured data?",
+        "difficulty": "Hard",
+        "options": [
+            "TXT",
+            "JSON",
+            "DOCX",
+            "MP3"
+        ],
+        "answer": "JSON"
+    },
+    {
+        "question": "What is the output of len('Python')?",
+        "difficulty": "Hard",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions in Python?",
+        "difficulty": "Hard",
+        "options": [
+            "catch",
+            "error",
+            "except",
+            "throw"
+        ],
+        "answer": "except"
+    },
+    {
+        "question": "Which built-in function converts a string into an integer?",
+        "difficulty": "Hard",
+        "options": [
+            "str()",
+            "float()",
+            "int()",
+            "bool()"
+        ],
+        "answer": "int()"
+    }
+]
