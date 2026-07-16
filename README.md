@@ -61,13 +61,13 @@ Quiz-Game/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Python-Quiz-Game.git
+[git clone https://github.com/viralpatel16/Upskillcampus.git]
 ```
 
 Move inside the folder
 
 ```bash
-cd Python-Quiz-Game
+cd Upskillcampus
 ```
 
 Install dependencies
